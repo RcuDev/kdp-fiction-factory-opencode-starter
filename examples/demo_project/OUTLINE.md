@@ -1,51 +1,66 @@
-# OUTLINE — Demo Starter Project
+# Outline — The Ash Gate
 
-## Act 1 — The gate wakes
+## Structure
 
-### Chapter 1 — Ash Falling Upward
+Three-act dark fantasy mystery.
 
-Taren is assigned to clean an abandoned lower tunnel as punishment for failing his gatekeeping trial. He finds ash rising from a sealed crack in the old gate and hears a bell that is not part of the city's official tower sequence. When he reports it, his former master tells him he saw nothing.
+## Act 1 — Setup and first breach
 
-### Chapter 2 — The Name That Was Scratched Out
+Purpose: establish Mara, the archive, the city’s official history and the first sign that the Ash Gate is not dormant.
 
-Mira Senn confronts Taren because her brother's last assignment was in the same tunnel. Together they find a maintenance ledger where one name has been erased, but the pressure mark remains in the paper.
+### Chapter 1 — Ash on the Index Room
 
-### Chapter 3 — Council Silence
+- Purpose: introduce Mara, the archive and the first impossible ashfall
+- POV: Mara
+- Opening hook: ash lands on sealed records inside a windowless archive room
+- Main conflict: Mara must decide whether to report the anomaly or quietly investigate first
+- Character movement: from routine obedience to first private act of defiance
+- Ending hook: she finds her father’s handwriting in a record that should have been copied after his disgrace
 
-Taren and Mira try to force an official inspection. The council dismisses them publicly, then sends a quiet enforcer to confiscate Taren's notes. Taren keeps one page hidden in his boot.
+### Chapter 2 — The Civic Version
 
-## Act 2 — The city lies
+- Purpose: show the public myth of the Ash Gate
+- POV: Mara
+- Main conflict: the Council announces a commemorative ritual while archive staff are ordered to surrender certain records
+- New information: the missing records all concern gate engineers
+- Ending hook: Tavi warns Mara that ash has also fallen in the lower district
 
-### Chapter 4 — The Gate-Iron Mark
+### Chapter 3 — Private Copy
 
-Mira reveals a gate-iron token from her brother. Taren sees a symbol on it that disappears when anyone else looks directly at it. The token points them toward a forbidden archive beneath the bell tower.
+- Purpose: push Mara outside official channels
+- POV: Mara
+- Main conflict: Mara searches for an uncatalogued private copy before the Council inventory team arrives
+- New information: the private copy names Iren Sol as witness, not traitor
+- Ending hook: the copy contains a map of tunnels beneath the plaza
 
-### Chapter 5 — The First Bargain
+## Act 2 — Escalation
 
-A desperate tunnel worker accepts a whispering offer from the Ash Voice and gains the ability to walk through locked doors. By morning, every door he touched is outlined in ash.
+Purpose: broaden the conspiracy, pressure Mara’s loyalty and reveal that the ritual is not symbolic.
 
-### Chapter 6 — The Archive Below Rain
+- Mara contacts Tavi and reaches the lower districts.
+- Ashfall becomes localized around old gate infrastructure.
+- Iren Sol is found alive in a hidden civic prison.
+- The Council frames the archive leak as sedition.
+- Mara learns the ritual requires corrected history, not false history.
 
-Taren and Mira enter the archive and discover records of prior gate weakenings. Each event ended with a person erased from civic memory.
+## Act 3 — Crisis and resolution
 
-## Act 3 — The choice
+Purpose: force Mara to decide whether truth is worth the chaos it will cause.
 
-### Chapter 7 — Trial of the Failed Apprentice
+- Mara must bring real witnesses into the public ritual.
+- Odran Vale tries to contain the truth without opening the gate.
+- The Ash Gate reacts to contradictory civic memory.
+- Mara exposes the altered history publicly.
+- The city survives, but the gate is no longer silent.
 
-Taren is arrested and offered reinstatement if he blames Mira and signs a false report. He almost accepts because it would restore everything he lost.
+## Subplots
 
-### Chapter 8 — Opening Without a Key
+- Mara and her father’s disgrace: introduced Chapter 1, deepened through records, resolved when Mara understands what he protected.
+- Tavi and the lower district: introduced Chapter 2, escalates with ashfall damage, resolves when public truth includes the forgotten districts.
+- Iren Sol’s guilt: introduced Chapter 3, complicated mid-book, resolved near final ritual.
 
-The Ash Voice offers Taren the power to open any path, including a life outside Veyrath. He realizes the offer is tailored to his resentment.
+## Setup and payoff
 
-### Chapter 9 — The Bell That Never Rang
-
-Taren uses the bell sequence he heard during his failed trial to locate the true hinge of the Ash Gate. Mira exposes the council's sacrifices to the city.
-
-### Chapter 10 — Seal of Names
-
-Taren refuses the bargain and helps bind the gate with the names of those erased. The gate closes, but one name answers from the other side: Mira's brother.
-
-## Starter limitation
-
-This outline is intentionally compact. The full product is designed to create deeper chapter structures, multi-layer SCEN tracking, Word Budget plans, continuity audits and KDP preparation.
+- Ash in sealed rooms → proves supernatural breach is not external weather.
+- Father’s handwriting → points to hidden continuity in altered records.
+- Civic ritual → later revealed as a functional mechanism, not ceremony.

@@ -1,115 +1,37 @@
-# Chapter 1 — Ash Falling Upward
+# Chapter 1 Sample — Ash on the Index Room
 
-The punishment tunnel began below the seventh stair, where the city stopped pretending it was clean.
+Ash should not have been able to enter the Index Room.
 
-Taren Vale held his lantern away from the wall and watched rainwater crawl through the cracks like thin black veins. Above him, the morning bells rang in their proper order: east tower, west tower, market tower, then the low bronze note from the gatehouse. Four notes. Always four.
+Mara Venn knew that before she knew anything else. Before she checked the door seal, before she held her breath beneath the brass vent, before she touched one cautious finger to the grey dust gathering on the corner of Record 19-F. The room had no windows. Its lamps burned clean mineral oil. Its shelves were locked behind civic glass that had survived two riots, one flood and every inspection the Council could invent.
 
-Behind him, one of the younger apprentices laughed.
+Still, ash lay across the record like a sentence someone had started and abandoned.
 
-"Careful, Vale," Jorren called from the stairwell. "If you get lost, should we send a real gatekeeper?"
+Mara did not move for several seconds. In the archive, hesitation was usually a virtue. It kept ink from spilling, pages from tearing, junior staff from speaking too quickly in front of people whose signatures could end a career. Tonight, hesitation felt less like discipline and more like fear.
 
-The other boy snorted. Taren did not turn around. He had learned, since failing his trial, that answering jokes only gave them better shape.
+She looked toward the door.
 
-"Shut the hatch when you leave," he said.
+No footsteps. No voices. Only the low tick of the catalogue clock and the soft electric hum of the preservation lamps.
 
-"Listen to him. Still giving orders."
+The record beneath the ash concerned the eastern pier of the Ash Gate. That alone was enough to make her hands cold.
 
-The hatch groaned shut. Darkness took the stairwell, and the boys' laughter thinned into the drip of water.
+Every child in Veyr knew the public version. The Ash Gate was a monument. The Gate marked the end of the last war. The Gate remained sealed because the city had triumphed, because order had held, because the Council remembered what the people must never forget.
 
-Taren lifted the lantern higher. The lower passage stretched ahead, narrow and old, ribbed with arches that had been carved before the upper city learned symmetry. He had walked it only once, three years ago, but the map of it remained in his mind: thirteen paces to the first bend, a broken drain on the left, then a straight descent toward the sealed maintenance door.
+Mara had copied those words often enough to hate their rhythm.
 
-He counted without meaning to.
+She reached for the linen cloth beside her station, then stopped. Cleaning the ash would destroy evidence. Reporting it would bring a Council inventory team before dawn. Ignoring it would be worse if anyone discovered she had seen it first.
 
-Nine. Ten. Eleven.
+Her father would have laughed at that. Quietly, because he had never been reckless in public. Then he would have asked the question that ruined people.
 
-The bend came early.
+What does the record need you not to notice?
 
-Taren stopped.
+Mara leaned closer.
 
-He looked back at the stairs, then forward at the curve of stone that should not have been there yet. His memory was rarely wrong about distance. It was the only talent the masters had never managed to dismiss, though they had tried to name it something smaller: a habit, a trick, a nervous fixation.
+The ash had gathered in the groove between two pages. Not randomly. Not as dust falls. It traced a thin grey line beneath a marginal note that should not have existed in this copy.
 
-He took one more step.
+The official hand was square, approved, anonymous.
 
-Something pale moved near the floor.
+The note beneath it was narrow and slanted left.
 
-At first he thought it was dust disturbed by his boot. Then the flecks rose instead of falling, drifting upward from a hairline split in the sealed wall. They gathered in the lantern light like gray snow remembering the wrong sky.
+Mara knew that hand.
 
-Ash.
-
-Taren crouched. The crack ran between two stones marked with old gate-script, the kind apprentices were no longer taught to read until their third oath year. He was not in a third oath year. He was not, officially, anything.
-
-He reached out.
-
-The ash touched his finger and vanished into the lines of his skin.
-
-A bell rang.
-
-Not above him. Not from the towers. This note came through the wall, low and vast, a sound felt first in the teeth and only afterward in the ear.
-
-Taren stumbled back so quickly the lantern struck stone. Flame jumped. For one breath, every arch in the tunnel cast two shadows.
-
-He knew that bell.
-
-He had heard it during his trial, just before he gave the answer that failed him.
-
-No such bell exists, Master Orrel had said in front of the council. An apprentice who invents signals cannot be trusted with gates.
-
-The ash continued to rise.
-
-Taren pulled the cleaning rag from his belt, wrapped it around a loose shard near the crack, and broke the edge free with the handle of his brush. The stone was warm. Not sun-warm. Hand-warm.
-
-Footsteps sounded behind him.
-
-He shoved the shard into his boot just as Master Orrel's lantern spilled gold across the passage.
-
-Orrel was a narrow man with silver hair tied at the nape and a face that always seemed to have finished judging you before you spoke. His eyes went first to Taren, then to the crack, then to the ash.
-
-For the smallest moment, the master's expression changed.
-
-Fear.
-
-Then it was gone.
-
-"You should not be this far down," Orrel said.
-
-Taren stood. "You assigned me this tunnel."
-
-"I assigned you the upper steps."
-
-"No." Taren heard the anger in his own voice and hated how young it made him sound. "You said seventh stair, lower passage, sealed maintenance wall. Jorren heard you. So did Pell."
-
-"Then they misheard."
-
-Ash drifted between them, slow and impossible.
-
-Taren pointed to it. "Tell me that is dust."
-
-Orrel's jaw tightened. "It is nothing you understand."
-
-"That isn't the same."
-
-"It is the only answer you are owed."
-
-The bell note faded from the stone, leaving the tunnel too quiet. Taren felt the hidden shard press against his ankle inside the boot.
-
-Orrel stepped closer. "You will return upstairs. You will tell the others the lower passage was flooded and unsafe. You will not mention ash, bells, cracks or old script."
-
-"Why?"
-
-"Because you have already lost one future by insisting you heard what no one else heard." Orrel lowered his voice. "Do not lose the rest of it."
-
-For a moment Taren saw the shape of the offer: obedience, silence, perhaps a path back to the gatehouse if he proved he could be useful and quiet.
-
-Then another fleck of ash rose from the crack and disappeared into the dark above his head.
-
-Taren closed his hand around the cleaning rag to hide the tremor in his fingers.
-
-"Yes, master," he said.
-
-Orrel studied him for a long moment. "Good."
-
-Taren followed him back toward the stairs, counting each pace as he went.
-
-Thirteen to the bend this time.
-
-The corridor had put itself back.
+She had learned her letters from it.

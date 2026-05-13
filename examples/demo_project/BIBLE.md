@@ -1,53 +1,71 @@
-# BIBLE — Demo Starter Project
+# Fiction Bible — The Ash Gate
 
-## Core premise
+## Story promise
 
-A rejected apprentice becomes the only person willing to investigate the ancient gate beneath the city. The gate was built to keep another world out, but generations of political lies have weakened the seal.
+A careful archivist uncovers a buried historical lie and must choose between personal safety and a truth that could save or destroy her city.
 
-## Protagonist
+## Logline
 
-**Taren Vale** — 19, failed gatekeeper apprentice. He is not powerful in the formal sense, but he has unusually strong spatial memory and can remember the layout of places even after magic tries to distort them. His emotional flaw is resentment: he wants to prove the city wrong more than he wants to save it.
+When ash falls from a clear sky, an apprentice archivist discovers that her city’s sacred monument is actually a prison, and the people sworn to protect it may be preparing to open it.
 
-## Main supporting character
+## Main cast
 
-**Mira Senn** — a junior archivist who helps Taren because her brother disappeared after being assigned to the lower tunnels. She is careful, skeptical and better at reading institutional lies than people.
+### Mara Venn
 
-## Antagonistic force
+- Role: apprentice archivist
+- External goal: identify the source of the ashfall and protect the archive from political seizure
+- Internal need: stop treating obedience as safety
+- Fear / wound: her father was ruined for challenging official history
+- Strength: patient, observant, disciplined
+- Weakness: delays action until she has impossible certainty
+- Starting state: careful servant of the archive
+- Desired ending state: someone willing to risk reputation and safety for truth
 
-**The Ash Voice** — an intelligence beyond the gate. It does not attack directly at first. It offers people the thing they most want, then turns the bargain into a doorway.
+### Councillor Odran Vale
 
-## Human opposition
+- Role: public guardian of civic order
+- Goal: keep the official version of the Ash Gate intact
+- Why he opposes Mara: her discoveries threaten the Council’s legitimacy
+- Why he is credible: he genuinely believes panic would destroy the city faster than any supernatural threat
 
-**The Gate Council** — the official protectors of the city. Publicly, they claim the gate is inert. Privately, they have maintained the seal through hidden sacrifices and erased records.
+### Iren Sol
 
-## Setting
+- Role: former gate engineer, now a forbidden prisoner-scribe
+- Function: knows the technical truth about the gate
+- Relationship to Mara: reluctant mentor and living contradiction of the official record
 
-**Veyrath**, a tiered stone city built around seven sealed foundations. Rain runs constantly through carved gutters, bells mark tunnel shifts, and old gatekeeping families hold political power.
+### Tavi Ren
 
-## Magic / world rules
+- Role: courier, street contact and Mara’s childhood friend
+- Function: gives Mara access to the city outside the archive
+- Motivation: protect his district from Council raids
 
-- The Ash Gate connects Veyrath to a dead world called **Nhal**.
-- Ash from Nhal falls upward when the seal weakens.
-- Names written in gate-iron cannot be erased by ordinary record magic.
-- The gate cannot open fully unless someone inside Veyrath makes a willing bargain.
-- The deeper tunnels rearrange slightly when the gate is awake.
+## World / setting
 
-## Main conflict
+Veyr is a tiered stone city built around the Ash Gate, a sealed black arch at the center of the civic plaza. Citizens are taught that the gate marks the victory that ended the last war. The archive preserves approved memory, and history is treated as infrastructure: if the story breaks, the city breaks.
 
-Taren wants to prove that the gate is active. The council wants silence. Mira wants the truth about her brother. The Ash Voice wants a human agent who feels betrayed enough to open the way.
+## Rules and constraints
+
+- Ashfall is not weather. It signals pressure from beyond the gate.
+- The Ash Gate cannot open without civic ritual, historical keys and living witnesses.
+- Official records may be altered, but physical marginalia and private copies can preserve truth.
+- Magic is bureaucratic, ritualized and expensive. It leaves documentary traces.
 
 ## Themes
 
-- Rejection can sharpen perception, but it can also corrupt judgment.
-- Institutions protect themselves before they protect people.
-- Power offered at the right emotional moment is rarely free.
+- Truth versus stability
+- Memory as power
+- Safety purchased through silence
+- The cost of correcting inherited lies
 
-## Style notes
+## Open questions
 
-Use concrete sensory detail: wet stone, iron bells, ash in the throat, candle smoke, cramped tunnels. Dialogue should reveal pressure and status. Avoid lore dumps; reveal the world through conflict and investigation.
+- Did Mara’s father know the full truth, or only part of it?
+- Is Iren Sol guilty, framed or both?
+- What exactly is imprisoned beyond the Ash Gate?
 
-## Continuity seeds
+## Continuity notes
 
-- Taren failed his trial because he heard a bell that officially never rang.
-- Mira's brother left a gate-iron mark that only Taren can see.
-- The council chamber has no windows, but ash appears on the inside of the glass lamps.
+- Mara is not a warrior at the start.
+- The Council is not cartoonishly evil; its fear is partly rational.
+- The Ash Gate should remain mysterious early, not fully explained in Chapter 1.

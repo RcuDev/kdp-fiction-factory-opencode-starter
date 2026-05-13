@@ -1,4 +1,4 @@
-# PROJECT — Demo Starter Project
+# Project — The Ash Gate
 
 ## Working title
 
@@ -12,38 +12,46 @@ Demo Author
 
 English
 
-## Genre
-
-Dark fantasy adventure
-
 ## Project type
 
-Standalone standard novel
+Standalone standard novel, with optional series potential.
 
-## Target length
+## Genre
 
-70,000-90,000 words in the imagined full project. The starter repository only demonstrates planning and one early chapter workflow.
+Dark fantasy adventure with light mystery elements.
 
-## Premise
+## Target reader
 
-Taren, a failed apprentice gatekeeper, discovers that the sealed ruin beneath his city is not dead stone but a living border between worlds. When ash begins falling upward from the old tunnels, he realizes the gate is waking and that the city council has been hiding failed sacrifices for decades.
+Readers who enjoy dangerous old cities, forbidden magic, morally difficult choices and protagonists who must earn their power rather than receive it for free.
+
+## Core premise
+
+In a city built around a sealed gate of black stone, an apprentice archivist discovers that the official histories of the last war have been altered. When ash begins falling from a clear sky, she realizes the gate is not a monument but a prison. To stop the city from opening it, she must decide whether to expose a truth that could collapse the only order her people have left.
 
 ## Main character
 
-Taren Vale is observant, stubborn and ashamed of failing his final gatekeeping trial. He has no prestigious magic, but he notices patterns other apprentices ignore.
+Mara Venn is a junior archivist in the Hall of Civic Memory. She wants security, recognition and proof that her quiet work matters. Her wound is that her father was branded a traitor for questioning the Council, and she has survived by being careful. Her arc moves from obedient preservation to dangerous truth-telling.
 
-## Central conflict
+## Main conflict
 
-The city wants the Ash Gate kept secret, a rebel faction wants to open it, and the thing beyond the gate wants someone desperate enough to make the first bargain.
+The Council wants to preserve the official story at any cost. Mara needs to uncover what really happened at the Ash Gate before the city repeats the same mistake.
 
-## Tone
+## Tone and style
 
-Tense, atmospheric and commercial. The prose should be clear, cinematic and character-driven, with dark mystery but not grimdark nihilism.
+Atmospheric, tense and controlled. The story should feel like a mystery unfolding inside a fantasy city where every archive, ritual and public monument may be hiding a lie.
 
-## Ending style
+## Estimated length
 
-Bittersweet closed ending with one larger mystery left open for a possible sequel.
+80,000-95,000 words in a full version. For this starter demo, only the planning layer and a short chapter sample are included.
 
-## Starter scope
+## Current status
 
-This demo shows what the free starter can realistically organize: a project brief, a basic Bible, a simple outline, a chapter plan and a short sample chapter. It does not include the full product's SCEN memory, Word Budget system, continuity audits, KDP export workflow or specialist agents.
+- Brief created: yes
+- Bible created: starter version
+- Outline created: starter version
+- Chapter 1 planned: yes
+- Chapter 1 drafted: sample only
+
+## Next action
+
+Use the starter commands to continue the outline or draft Chapter 2 from the existing project files.

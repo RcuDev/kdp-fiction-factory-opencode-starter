@@ -1,14 +1,36 @@
 # Workflow Overview
 
-The starter workflow is:
+This starter is intentionally simple. It demonstrates the basic idea of a local, file-based fiction workflow for AI agents.
 
-1. Project brief
-2. Basic Bible
-3. Basic outline
-4. Chapter plan
-5. Chapter draft
-6. Manual notes update
+## Starter workflow
 
-The example project shows a realistic starter-level result. It is more than a placeholder, but still intentionally simple: it does not include advanced state management, automated continuity auditing, KDP export, illustration planning or specialist agents.
+1. Define the project in `PROJECT.md`.
+2. Build a basic story Bible in `BIBLE.md`.
+3. Create a practical outline in `OUTLINE.md`.
+4. Keep lightweight continuity notes in `NOTES.md`.
+5. Plan a chapter before drafting it.
+6. Draft from the project files instead of from memory.
+7. Update notes after every meaningful change.
 
-The full version expands this into a complete production pipeline with SCEN memory, Word Budget, continuity audit, chapter close workflow, KDP export and launch workflows.
+## What the starter is good for
+
+- Testing the workflow.
+- Planning a small fiction project.
+- Creating a basic Bible and outline.
+- Drafting early chapters with more structure than a normal chat.
+- Understanding whether the full version is useful for your process.
+
+## What the starter does not include
+
+- Full SCEN narrative memory.
+- Word Budget anti-filler system.
+- Continuity audit workflow.
+- Chapter closing workflow.
+- KDP export workflow.
+- Metadata and launch workflow.
+- Illustration planning workflow.
+- Specialist agents.
+- Locked quality gates.
+- Validators and schemas.
+
+For long novels, sagas or serious KDP production, use the full edition.

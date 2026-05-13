@@ -1,43 +1,37 @@
-# Personal Use License
+# KDP Fiction Factory Starter — Personal Use License
 
-Copyright (c) 2026 Raul Corvo
+Copyright (c) 2026 Raul Corvo.
 
-This repository is provided as a free starter version of KDP Fiction Factory for OpenCode.
+This repository contains a free starter version of KDP Fiction Factory.
 
-## Permitted use
+## What you may do
 
 You may:
 
-- use this starter for your own personal writing projects;
-- modify it for your own private use;
-- use it to test AI-assisted fiction workflows;
-- publish books or stories created with your own modified personal workflow.
+- use this starter workspace for your own personal fiction-writing projects;
+- modify it for your own personal use;
+- publish books you create with help from this starter workflow;
+- share links to this public repository.
 
-## Restrictions
+## What you may not do
 
 You may not:
 
-- sell this starter as a product;
-- redistribute this starter as a ZIP, template, bundle, marketplace product or paid download;
-- repackage it as your own writing system;
-- publish it as a competing product;
-- remove attribution and claim the original structure as your own commercial product;
-- use this starter to create a substantially similar commercial product that competes with KDP Fiction Factory.
+- resell this repository or any modified version as a standalone product;
+- redistribute the files as a paid template, prompt pack, workspace, course bonus, marketplace item or commercial download;
+- repackage this starter as your own product;
+- claim ownership of the original KDP Fiction Factory system, name, templates or workflow structure;
+- use this starter to create a directly competing commercial product.
+
+## Commercial use
+
+This free starter is intended for personal use and evaluation. If you want to use KDP Fiction Factory for client work, commercial services, ghostwriting packages, paid author services or production workflows, use the full paid edition and follow its license terms.
+
+Full paid editions:
+
+- Claude Code Edition: https://rcu1987.gumroad.com/l/zueydk
+- OpenCode Edition: https://rcu1987.gumroad.com/l/vrvyt
 
 ## No warranty
 
-This starter is provided as-is, without warranty of any kind.
-
-It does not guarantee book sales, royalties, Amazon KDP ranking, publishing success or creative quality.
-
-You are responsible for your own use of AI tools, publishing decisions, editing, formatting, metadata, legal compliance and platform policies.
-
-## Full versions
-
-The full commercial versions are available here:
-
-OpenCode Edition:
-https://rcu1987.gumroad.com/l/vrvyt
-
-Claude Code Edition:
-https://rcu1987.gumroad.com/l/zueydk
+This project is provided as-is, without warranty of any kind. It does not guarantee publishing success, book sales, royalties, Amazon ranking or income.

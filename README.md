@@ -1,210 +1,136 @@
-# KDP Fiction Factory Starter for OpenCode
+# KDP Fiction Factory — OpenCode Starter
 
-A **free starter workspace** for using **OpenCode** to plan and draft fiction projects with more structure.
+A free starter workspace for using **OpenCode** to plan AI-assisted fiction projects with more structure.
 
-Most AI tools can generate chapters. The hard part is keeping a full novel or saga coherent from beginning to end.
+This repository is the lightweight public version of **KDP Fiction Factory**. It helps you test a basic file-based workflow for planning a novel, creating a starter Bible, outlining the story and drafting an early chapter with context.
 
-This starter repo gives you a lightweight version of the workflow behind **KDP Fiction Factory for OpenCode**.
+It is useful, but intentionally limited. The full paid editions include the complete production system with SCEN narrative memory, Word Budget, continuity audits, KDP export, specialist agents and advanced quality gates.
 
-It is intentionally small.
+## Get the full versions
 
-It shows the basic idea:
-
-- use a local workspace instead of random chats;
-- keep project decisions in files;
-- start with a guided setup;
-- create a basic Bible;
-- create a basic outline;
-- draft chapters with context;
-- keep the workflow simple and repeatable.
-
----
+- **OpenCode Edition:** https://rcu1987.gumroad.com/l/vrvyt
+- **Claude Code Edition:** https://rcu1987.gumroad.com/l/zueydk
 
 ## What this starter includes
 
-This free version includes:
+- Basic project setup.
+- Basic fiction Bible template.
+- Basic outline template.
+- Basic notes template.
+- Basic chapter plan template.
+- Three starter commands.
+- A realistic demo project: **The Ash Gate**.
+- Personal-use license.
 
-- **AGENTS.md** basic OpenCode operating rules;
-- **opencode.json** starter configuration;
-- **/new-book** command;
-- **/continue-book** command;
-- **/write-chapter** command;
-- basic project templates;
-- a tiny demo project;
-- simple documentation.
+## What the full version adds
 
-It is useful enough to test the workflow, but it is **not** the full commercial system.
-
----
-
-## Quick start
-
-Clone or download this repo.
-
-Open a terminal inside the folder.
-
-Run OpenCode.
-
-Then type:
-
-**/new-book**
-
-The starter will guide you through a basic fiction setup and help create the first project files.
-
----
-
-## Main commands
-
-**/new-book** — Start a new fiction project with a basic guided setup.
-
-**/continue-book** — Resume the current project from saved files.
-
-**/write-chapter** — Draft the next chapter using the available project context.
-
-These commands are intentionally lightweight. They are meant to demonstrate the workflow, not replace the full version.
-
----
-
-## Basic workflow
-
-The starter workflow is simple:
-
-1. Run **/new-book**.
-2. Create a basic project folder.
-3. Define the story idea, genre, language and target length.
-4. Create a simple **BIBLE.md**.
-5. Create a simple **OUTLINE.md**.
-6. Draft chapters into the **chapters/** folder.
-7. Update basic project notes as you go.
-
-The goal is to move from random AI chats to a more structured fiction workflow.
-
----
-
-## Free starter vs full version
-
-### Free Starter
-
-Includes:
-
-- basic OpenCode setup;
-- simple project rules;
-- three basic slash commands;
-- basic Bible template;
-- basic outline template;
-- minimal demo project;
-- personal-use license.
-
-### Full OpenCode Edition
-
-The full paid version includes:
-
-- guided menu onboarding;
-- locked project modes;
-- complete SCEN narrative memory;
-- Word Budget anti-filler system;
-- specialist agents;
-- full skills library;
-- continuity audits;
-- chapter closing workflow;
-- illustration planning;
-- KDP export workflow;
-- metadata and launch workflows;
-- schemas and validators;
-- full demo fantasy project;
-- customer documentation.
-
-Get the full **OpenCode Edition** here:
-
-https://rcu1987.gumroad.com/l/vrvyt
-
-### Full Claude Code Edition
-
-There is also a full Claude Code version of the same system.
-
-Get the full **Claude Code Edition** here:
-
-https://rcu1987.gumroad.com/l/zueydk
-
----
-
-## Who this is for
-
-This starter is for:
-
-- indie authors;
-- KDP publishers;
-- fantasy writers;
-- LitRPG writers;
-- AI-assisted writers;
-- people who want to test OpenCode for fiction workflows;
-- technical users who like local files and structured processes.
-
-It is especially useful if you want to test the idea before buying the full version.
-
----
-
-## Who this is not for
-
-This is not a one-click book generator.
-
-It will not guarantee sales, royalties, rankings or publishing success.
-
-It does not replace your judgment as an author.
-
-It is a starter workflow for organizing AI-assisted fiction projects.
-
----
+- Guided menu onboarding.
+- Locked project modes.
+- SCEN narrative memory.
+- Word Budget anti-filler system.
+- Specialist agents.
+- Full skills library.
+- Continuity audits.
+- Chapter closing workflow.
+- Illustration planning.
+- KDP export workflow.
+- Metadata and launch workflow.
+- Schemas and validators.
+- Full customer documentation.
 
 ## Repository structure
 
 ```text
-kdp-fiction-factory-opencode-starter/
+kdp-fiction-factory-opencode-starter-v1_2/
 ├── AGENTS.md
 ├── opencode.json
-├── .opencode/
-│   └── commands/
-│       ├── new-book.md
-│       ├── continue-book.md
-│       └── write-chapter.md
+├── .opencode/commands/
+│   ├── new-book.md
+│   ├── continue-book.md
+│   └── write-chapter.md
+├── templates/
+│   ├── PROJECT_TEMPLATE.md
+│   ├── BIBLE_TEMPLATE.md
+│   ├── OUTLINE_TEMPLATE.md
+│   ├── NOTES_TEMPLATE.md
+│   └── CHAPTER_PLAN_TEMPLATE.md
+├── examples/
+│   └── demo_project/
+│       ├── PROJECT.md
+│       ├── BIBLE.md
+│       ├── OUTLINE.md
+│       ├── NOTES.md
+│       └── chapters/
+│           ├── chapter-01-plan.md
+│           └── chapter-01-sample.md
 ├── docs/
 │   ├── GETTING_STARTED.md
 │   ├── WORKFLOW_OVERVIEW.md
 │   └── FULL_VERSION_COMPARISON.md
-├── templates/
-│   └── basic_project_structure/
-├── examples/
-│   └── demo_project/
-├── .github/
-│   └── FUNDING.yml
-└── LICENSE.md
+├── .github/FUNDING.yml
+├── LICENSE.md
+├── CONTRIBUTING.md
+└── CHANGELOG.md
 ```
 
----
+## Quick start
 
-## Support the project
+1. Clone or download this repository.
+2. Open the folder in **OpenCode**.
+3. Read `examples/demo_project/` to understand the starter workflow.
+4. Run **/new-book** to create your own project structure.
+5. Use **/write-chapter** only after you have a project brief, Bible and outline.
 
-If this starter helps you, you can support the full project by buying one of the complete editions:
+## Starter commands
 
-- OpenCode Edition: https://rcu1987.gumroad.com/l/vrvyt
-- Claude Code Edition: https://rcu1987.gumroad.com/l/zueydk
+**/new-book** — Start a basic fiction project with a guided setup.
 
-You can also use the GitHub Sponsor button if it is enabled on this repository.
+**/continue-book** — Resume work by reading the current project files and suggesting the next safe action.
 
----
+**/write-chapter** — Plan and draft a chapter using the project brief, Bible and outline.
 
-## License
+## Recommended workflow
 
-This free starter is released under a **Personal Use License**.
-
-You may use it for your own writing projects and personal experimentation.
-
-You may not resell, redistribute, repackage, publish, or upload this starter as a competing product or marketplace download.
-
-See **LICENSE.md** for the full license terms.
+- Define the project in `PROJECT.md`.
+- Build the story foundation in `BIBLE.md`.
+- Create a practical outline in `OUTLINE.md`.
+- Track decisions and continuity facts in `NOTES.md`.
+- Plan a chapter before drafting it.
+- Draft from the project files, not from memory.
+- Update notes after each meaningful change.
 
 ## Demo project
 
-The repository includes `examples/demo_project/`, a realistic starter-level sample based on a dark fantasy project called **The Ash Gate**. It includes a project file, basic Bible, compact outline, Chapter 1 plan, short Chapter 1 sample and manual notes.
+The included demo project, **The Ash Gate**, shows what a realistic starter-level project can look like:
 
-This shows what the free starter can reasonably help organize without pretending to be the full production system.
+- a concise project brief;
+- a usable fiction Bible;
+- a structured outline;
+- continuity notes;
+- a chapter plan;
+- a short chapter sample.
+
+It is not meant to show the full commercial workflow. It is meant to demonstrate the starter concept clearly.
+
+## Who this is for
+
+This starter is for writers, indie authors, KDP publishers and AI-assisted creators who want to test a more structured way to use OpenCode for fiction.
+
+It is especially useful if normal AI chats feel too messy, too temporary or too easy to lose track of.
+
+## Who this is not for
+
+This is not a one-click book generator. It does not replace your judgment as an author. It does not guarantee book sales, Amazon ranking, royalties or publishing success.
+
+## License
+
+This starter is provided under a **personal-use license**. You may use it for your own fiction projects and modify it for personal use. You may not resell, redistribute, repackage or publish it as a standalone product or competing commercial template.
+
+See `LICENSE.md` for details.
+
+## Support the project
+
+If this starter helps you, you can support the full project here:
+
+- Claude Code Edition: https://rcu1987.gumroad.com/l/zueydk
+- OpenCode Edition: https://rcu1987.gumroad.com/l/vrvyt

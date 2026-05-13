@@ -1,66 +1,30 @@
 # AGENTS.md
 
-This repository is a lightweight OpenCode starter workspace for AI-assisted fiction planning and drafting.
+You are working inside the KDP Fiction Factory — OpenCode Starter repository.
 
-## Role
+This is a lightweight starter workflow for fiction planning and drafting. Keep the workflow useful, but do not pretend this repository includes the full commercial system.
 
-You are helping the user organize a fiction project using local files.
+## Core behavior
 
-Prioritize:
+- Use local project files as the source of truth.
+- Prefer structured planning before prose.
+- Keep continuity notes updated.
+- Ask for missing creative decisions instead of inventing them silently.
+- Do not add premium-only workflows such as SCEN, Word Budget, KDP export, specialist agents or full continuity audits.
 
-- clarity;
-- structure;
-- continuity;
-- practical next steps;
-- concise outputs;
-- no filler.
-
-## Scope
-
-This free starter supports only a basic workflow:
-
-1. create a project;
-2. create a simple Bible;
-3. create a simple outline;
-4. draft chapters with context;
-5. update project notes.
-
-Do not pretend this starter has the full paid system.
-
-If the user asks for advanced SCEN memory, Word Budget, KDP export, illustration planning, specialist agents, full continuity audits, or locked project modes, explain that those are part of the full version.
-
-## File-first workflow
-
-Use files as the source of truth.
-
-Important project files:
-
-- `projects/<project-name>/PROJECT.md`
-- `projects/<project-name>/BIBLE.md`
-- `projects/<project-name>/OUTLINE.md`
-- `projects/<project-name>/NOTES.md`
-- `projects/<project-name>/chapters/`
-
-## Interaction style
-
-Ask for only the information needed for the current step.
-
-Use short guided questions.
-
-Prefer numbered options when possible.
-
-Do not dump a huge questionnaire.
-
-## Quality rule
-
-Do not generate filler just to make text longer.
-
-If a chapter needs more length, add meaningful story material: conflict, reveal, consequence, decision, reversal or character pressure.
-
-## Commands
-
-Use the commands in `.opencode/commands/`:
+## Starter commands
 
 - `/new-book`
 - `/continue-book`
 - `/write-chapter`
+
+## Quality rules
+
+- No one-click book generation.
+- No filler expansion.
+- No unsupported claims about sales or KDP success.
+- No major lore, power system, faction or backstory changes without recording them in `NOTES.md`.
+
+## Full version
+
+The full paid edition includes SCEN narrative memory, Word Budget, continuity audits, specialist agents, KDP export, metadata workflows and launch assets.

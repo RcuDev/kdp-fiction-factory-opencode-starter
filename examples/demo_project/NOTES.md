@@ -1,28 +1,33 @@
-# Notes — Demo Starter Project
+# Notes — The Ash Gate
 
-## Current project state
+## Decisions made
 
-Taren has found physical evidence that the Ash Gate is active. Master Orrel has seen the ash and denied it, which means the cover-up is institutional, not accidental.
+- The protagonist starts as an archivist, not a fighter. Reason: the story is about memory, truth and institutional pressure.
+- The Council must be rational enough to be dangerous. Reason: a believable antagonist is stronger than a purely evil authority.
+- The Ash Gate should remain partly mysterious in the starter. Reason: the free example should show setup without revealing every premium-level continuity mechanism.
 
-## Open questions
+## Continuity facts
 
-- Why did Taren hear the forbidden bell during his failed trial?
-- Why does the lower tunnel shift distance when the gate is awake?
-- What does Master Orrel know about previous gate weakenings?
-- What exactly is the ash doing when it touches skin?
+- The archive room in Chapter 1 has no windows.
+- Mara’s father was publicly disgraced, not executed.
+- Ashfall can appear indoors.
+- Official records can be altered, but marginalia and private copies can preserve truth.
 
-## Continuity notes
+## Ideas to revisit
 
-- Official tower sequence has four notes.
-- The forbidden bell comes from below, through stone.
-- Ash rises upward from cracks in the seal.
-- Taren hides a warm stone shard in his boot.
-- Taren's spatial memory is a core trait, not a magic system explanation yet.
+- The Ash Gate might require true testimony rather than blood sacrifice.
+- Iren Sol may have helped create the lie for a defensible reason.
+- The final ritual could force the whole city to hear multiple contradictory histories at once.
 
-## Next suggested action
+## Risks
 
-Use the outline to draft Chapter 2, where Mira Senn enters the story and connects the tunnel to her missing brother.
+- Risk: too much exposition about archive politics. Possible fix: dramatize through record seizure, public ritual and direct threat to Mara.
+- Risk: Mara feels passive. Possible fix: each chapter should force a decision that costs her safety.
 
-## Starter limitation reminder
+## Next session checklist
 
-This notes file is manual and simple. The full product includes a much stronger SCEN memory system, chapter close workflow and continuity audit process.
+- Read PROJECT.md
+- Read BIBLE.md
+- Read OUTLINE.md
+- Read chapter-01-plan.md
+- Continue with Chapter 2 plan or revise Chapter 1 sample

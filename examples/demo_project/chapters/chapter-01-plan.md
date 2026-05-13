@@ -1,37 +1,44 @@
-# Chapter 1 Plan — Demo Starter Project
+# Chapter 1 Plan — Ash on the Index Room
 
-## Chapter title
+## Purpose
 
-Ash Falling Upward
+Introduce Mara, the archive, the city’s relationship with official memory and the first impossible sign that the Ash Gate is active.
 
-## Purpose of the chapter
+## POV
 
-Introduce Taren, show his failed status, reveal the first impossible sign that the gate is waking, and create immediate pressure when authority denies what he saw.
+Mara Venn. Close third person or first person both work, but close third is recommended for controlled tension.
 
-## Opening image
+## Starting situation
 
-Taren descending into the lower tunnel with a cracked lantern, hearing the city bells above him while water runs down the stone walls.
+Mara is working a quiet night shift in the Index Room, recataloguing sealed civic records before the annual Ash Gate commemoration.
+
+## Conflict
+
+Ash appears inside a sealed, windowless archive room. If Mara reports it immediately, the Council may seize the records. If she hides it, she risks being accused of tampering.
 
 ## Key beats
 
-1. Taren is mocked by two younger apprentices while being sent to clean the abandoned tunnel.
-2. He notices that the tunnel map in his memory no longer matches the actual corridor.
-3. He finds ash drifting upward from a sealed crack.
-4. He hears a bell note that does not belong to any official tower.
-5. His former master arrives, sees the ash, and orders him to forget it.
-6. Taren hides a small ash-stained shard before leaving.
+- Mara notices ash on a record that should be clean.
+- She checks the vents, seals and lamps, proving there is no ordinary source.
+- A senior archivist almost enters, forcing Mara to conceal the ash.
+- Mara finds that the ash marks only records related to gate engineers.
+- She discovers a margin note in her father’s handwriting.
 
-## Character pressure
+## Character movement
 
-Taren wants proof that his instincts were right during the failed trial. The scene tempts him to act out of wounded pride rather than duty.
+Mara begins as careful and obedient. By the end, she makes a private decision to delay reporting and investigate first.
 
-## Continuity notes to carry forward
+## Continuity facts introduced
 
-- Ash falls upward when the gate weakens.
-- Taren has unusually strong spatial memory.
-- The forbidden bell note connects to his failed trial.
-- Master Orrel knows more than he admits.
+- The Index Room has no windows.
+- Ashfall inside sealed rooms is impossible under normal conditions.
+- Mara’s father was disgraced and should not appear in later official records.
+- Gate engineer records are politically sensitive.
 
-## Drafting target for starter
+## Ending hook
 
-1,200-1,800 words for a short sample. The full version would plan a more precise Word Budget before drafting.
+Mara finds her father’s handwriting in a document copied after his disgrace, meaning either the record is false, the date is false or her father was still working for the archive after history says he was gone.
+
+## Drafting instruction
+
+Write with quiet tension. Avoid explaining the whole magic system. Keep the focus on physical evidence, Mara’s fear of institutional consequences and the emotional shock of recognizing her father’s handwriting.

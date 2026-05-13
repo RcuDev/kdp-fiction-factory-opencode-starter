@@ -1,43 +1,37 @@
-# Free Starter vs Full Version
+# Starter vs Full Version
+
+The starter is useful, but intentionally limited. It is designed to demonstrate the concept without replacing the paid product.
 
 ## Free Starter
 
-The free starter includes:
+- Basic project setup.
+- Basic Bible template.
+- Basic outline template.
+- Basic chapter plan template.
+- Three starter commands.
+- One realistic demo project.
+- Personal use license.
 
-- basic OpenCode setup;
-- AGENTS.md rules;
-- three slash commands;
-- basic project templates;
-- small demo project;
-- personal-use license.
+## Full Paid Editions
 
-It is designed to help you test the concept.
+The full editions include the complete production system:
 
-## Full OpenCode Edition
+- Guided menu onboarding.
+- Locked project modes.
+- Full SCEN narrative memory.
+- Word Budget anti-filler system.
+- Specialist agents.
+- Full skills library.
+- Continuity audits.
+- Chapter closing workflow.
+- Illustration planning.
+- KDP export workflow.
+- Metadata and launch workflow.
+- Schemas and validators.
+- Full demo project.
+- Customer documentation.
 
-The full version includes:
+## Get the full versions
 
-- guided menu onboarding;
-- locked project modes;
-- complete SCEN narrative memory;
-- Word Budget anti-filler system;
-- specialist agents;
-- full skills library;
-- continuity audits;
-- chapter closing workflow;
-- illustration planning;
-- KDP export workflow;
-- metadata and launch assets;
-- schemas and validators;
-- full demo fantasy project;
-- customer documentation.
-
-Get the full OpenCode Edition:
-
-https://rcu1987.gumroad.com/l/vrvyt
-
-## Full Claude Code Edition
-
-Get the full Claude Code Edition:
-
-https://rcu1987.gumroad.com/l/zueydk
+- Claude Code Edition: https://rcu1987.gumroad.com/l/zueydk
+- OpenCode Edition: https://rcu1987.gumroad.com/l/vrvyt

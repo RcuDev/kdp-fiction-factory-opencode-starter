@@ -1,48 +1,38 @@
 # Getting Started
 
-This is the free starter version of **KDP Fiction Factory for OpenCode**.
+## 1. Read the demo first
 
-## 1. Open the workspace
+Open `examples/demo_project/` and read these files in order:
 
-Open a terminal in this folder and run OpenCode.
+1. `PROJECT.md`
+2. `BIBLE.md`
+3. `OUTLINE.md`
+4. `NOTES.md`
+5. `chapters/chapter-01-plan.md`
+6. `chapters/chapter-01-sample.md`
 
-## 2. Start a project
+This shows the level of output the starter is designed to support.
 
-Type:
+## 2. Create your own project files
 
-**/new-book**
+Copy the files from `templates/` into a new local project folder:
 
-OpenCode will ask a few guided questions and create a basic project folder.
+- `PROJECT_TEMPLATE.md` → `PROJECT.md`
+- `BIBLE_TEMPLATE.md` → `BIBLE.md`
+- `OUTLINE_TEMPLATE.md` → `OUTLINE.md`
+- `NOTES_TEMPLATE.md` → `NOTES.md`
+- `CHAPTER_PLAN_TEMPLATE.md` → `chapters/chapter-01-plan.md`
 
-## 3. Continue later
+## 3. Use the commands
 
-Type:
+Use:
 
-**/continue-book**
+- `/new-book` to start;
+- `/continue-book` to resume;
+- `/write-chapter` to plan and draft a chapter.
 
-The starter will inspect your project files and suggest the next step.
+## 4. Keep expectations realistic
 
-## 4. Write a chapter
+This starter gives you a basic structure. It does not include the full production system.
 
-Type:
-
-**/write-chapter**
-
-The starter will read your basic project files and help draft the next chapter.
-
-## Full versions
-
-Full OpenCode Edition:
-
-https://rcu1987.gumroad.com/l/vrvyt
-
-Full Claude Code Edition:
-
-https://rcu1987.gumroad.com/l/zueydk
-
-
-## Demo project
-
-Open `examples/demo_project/` to see a realistic starter-level project. It includes a project file, basic Bible, compact outline, Chapter 1 plan, short Chapter 1 sample and manual notes.
-
-The demo is intentionally useful but not complete. The full version adds SCEN memory, Word Budget, continuity audits, KDP export, illustration planning and specialist agents.
+For serious long-form fiction, sagas and KDP workflows, use the full edition.

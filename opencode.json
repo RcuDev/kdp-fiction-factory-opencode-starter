@@ -1,10 +1,9 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  "project": {
-    "name": "kdp-fiction-factory-opencode-starter",
-    "description": "Free starter workspace for structured fiction writing with OpenCode"
-  },
   "instructions": [
     "AGENTS.md"
-  ]
+  ],
+  "commands": {
+    "path": ".opencode/commands"
+  }
 }
