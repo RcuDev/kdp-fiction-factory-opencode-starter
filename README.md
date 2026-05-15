@@ -8,8 +8,8 @@ It is useful, but intentionally limited. The full paid editions include the comp
 
 ## Get the full versions
 
-- **OpenCode Edition:** https://rcu1987.gumroad.com/l/vrvyt
-- **Claude Code Edition:** https://rcu1987.gumroad.com/l/zueydk
+- **OpenCode Edition:** https://rcu1987.gumroad.com/l/vrvyt?code=PH50
+- **Claude Code Edition:** https://rcu1987.gumroad.com/l/zueydk?code=PH50
 
 ## What this starter includes
 
@@ -132,5 +132,5 @@ See `LICENSE.md` for details.
 
 If this starter helps you, you can support the full project here:
 
-- Claude Code Edition: https://rcu1987.gumroad.com/l/zueydk
-- OpenCode Edition: https://rcu1987.gumroad.com/l/vrvyt
+- Claude Code Edition: https://rcu1987.gumroad.com/l/zueydk?code=PH50
+- OpenCode Edition: https://rcu1987.gumroad.com/l/vrvyt?code=PH50
